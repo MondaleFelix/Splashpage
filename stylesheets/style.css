@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-36.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color:white;
+  font-family: 'Paytone One', sans-serif;
+  text-shadow: 5px 5px #000000;
+  position: absolute;
+  margin:auto;
+  padding:70px 0;
+  font-size: 25px;
+}
